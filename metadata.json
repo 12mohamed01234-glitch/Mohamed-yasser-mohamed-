@@ -1,0 +1,7 @@
+{
+  "name": "Sitezy - AI Website Factory",
+  "description": "Premium global SaaS platform for generating high-converting professional websites instantly using intelligence. Tailored for specialists and startups worldwide.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
